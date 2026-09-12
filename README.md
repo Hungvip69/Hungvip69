@@ -19,6 +19,10 @@
   <a href="https://hungw.id.vn">hungw.id.vn</a>
 </h2>
 
+<p align="center">
+  Portfolio, projects, and contact — all in one place.
+</p>
+
 ---
 
 <table>
