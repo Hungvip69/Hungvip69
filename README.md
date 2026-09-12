@@ -15,12 +15,14 @@
   I vibecode tools, automation, and AI products — and I'm working toward a career in cybersecurity.
 </p>
 
-<h2 align="center">
-  <a href="https://hungw.id.vn">hungw.id.vn</a>
-</h2>
+<h2 align="center">My Website</h2>
 
 <p align="center">
-  Portfolio, projects, and contact — all in one place.
+  <a href="https://hungw.id.vn"><strong>hungw.id.vn</strong></a>
+</p>
+
+<p align="center">
+  Visit for my full portfolio, projects, and contact.
 </p>
 
 ---
