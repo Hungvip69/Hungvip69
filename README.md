@@ -7,11 +7,11 @@
 <h1 align="center">Quách Tấn Hưng</h1>
 
 <p align="center">
-  <samp>FREELANCE VIBECODER / AI TOOLS / AUTOMATION</samp>
+  <samp>INDEPENDENT VIBECODER / AI TOOLS / AUTOMATION</samp>
 </p>
 
 <p align="center">
-  Freelance vibecoder from Saigon, born 2012.
+  Independent vibecoder from Saigon, born 2012.
   I vibecode tools, automation, and AI products — and I'm working toward a career in cybersecurity.
 </p>
 
@@ -46,7 +46,7 @@
 PROFILE
 
 name      Quach Tan Hung
-role      freelance vibecoder
+role      independent vibecoder
 location  Saigon, Vietnam
 born      2012
 goal      cybersecurity

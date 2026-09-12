@@ -1,6 +1,6 @@
 <svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Quach Tan Hung profile hero</title>
-  <desc id="desc">Profile banner: Quach Tan Hung, freelance vibecoder from Saigon.</desc>
+  <desc id="desc">Profile banner: Quach Tan Hung, independent vibecoder from Saigon.</desc>
 
   <rect width="1200" height="340" rx="18" fill="#101217"/>
   <rect x="24" y="24" width="1152" height="292" rx="14" fill="#151820"/>
@@ -10,7 +10,7 @@
   <path d="M72 248H704" stroke="#343946"/>
 
   <text x="72" y="92" fill="#AAB2C0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3">
-    FREELANCE VIBECODER
+    INDEPENDENT VIBECODER
   </text>
 
   <text x="70" y="166" fill="#F5F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5">
