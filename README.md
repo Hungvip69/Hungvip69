@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Quach Tan Hung profile hero" width="100%" />
+<img src="./assets/profile-hero.svg" alt="Quách Tấn Hưng profile hero" width="100%" />
 
 </div>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Independent vibecoder from Saigon, born 2012.
+  Independent vibecoder from Ho Chi Minh City, born 2012.
   I vibecode tools, automation, and AI products — and I'm working toward a career in cybersecurity.
 </p>
 
@@ -49,9 +49,9 @@
 ```txt
 PROFILE
 
-name      Quach Tan Hung
+name      Quách Tấn Hưng
 role      independent vibecoder
-location  Saigon, Vietnam
+location  Ho Chi Minh City, Vietnam
 born      2012
 goal      cybersecurity
 language  Vietnamese, English
